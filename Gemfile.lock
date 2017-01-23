@@ -79,7 +79,6 @@ GEM
     nio4r (1.2.1)
     nokogiri (1.7.0.1-x86-mingw32)
       mini_portile2 (~> 2.1.0)
-    pg (0.18.4-x86-mingw32)
     puma (3.4.0)
     rack (2.0.1)
     rack-test (0.6.3)
@@ -148,7 +147,7 @@ GEM
       activemodel (>= 4.2)
       debug_inspector
       railties (>= 4.2)
-    websocket-driver (0.6.4)
+    websocket-driver (0.6.5)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.2)
 
@@ -161,7 +160,6 @@ DEPENDENCIES
   jbuilder (= 2.4.1)
   jquery-rails (= 4.1.1)
   listen (= 3.0.8)
-  pg (= 0.18.4)
   puma (= 3.4.0)
   rails (= 5.0.0.1)
   sass-rails (= 5.0.6)
